@@ -1,14 +1,14 @@
-# Chess-Mate-Final
-Chess Mate: Taking the Game to the Next Level
+Grandmaster Arena
+Grandmaster Arena: Taking the Game to the Next Level
 
-Welcome to Chess Mate, the online chess platform that will take your chess experience to the next level. Get ready to dive into our captivating  world of strategy, skill, and excitement.
+Welcome to Grandmaster Arena, the online chess platform that will take your chess experience to the next level. Get ready to dive into our captivating  world of strategy, skill, and excitement.
 
 # play Now 👇
-https://yagna123k.github.io/Chess-Mate-Final/HomePage/Home.html
+https://mohankumar01012005.github.io/Grandmaster_Arena/HomePage/Home.html
 
 # Game Idea
 
-Chess Mate is an innovative chess platform.
+Grandmaster Arena is an innovative chess platform.
 
 Focus on enhancing the traditional chess experience.
 
@@ -19,7 +19,7 @@ User-Friendly interface for ease of navigation and play.
 
 # Game Play
 
-Chess Mate is a two-player strategy game
+Grandmaster Arena is a two-player strategy game
 Each player has an army of 16 pieces, including  a king, queen, rooks, knights, bishops, and pawns.
 The goal is to kill the opponent’s king and win the game
 

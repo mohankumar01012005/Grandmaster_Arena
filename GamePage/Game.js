@@ -5,7 +5,7 @@ var restart = document.getElementById('restart')
 
 home.addEventListener('click', ()=>{
     clicksound()
-    window.location.href = './../HomePage/Home.html'
+    window.location.href = '../index.html'
 })
 
 inst.addEventListener('click', ()=>{
@@ -24,7 +24,7 @@ var replay = document.getElementById('replay')
 
 homebtn.addEventListener('click', ()=>{
     clicksound()
-    window.location.href = './../HomePage/Home.html'
+    window.location.href = '../index.html'
 })
 
 replay.addEventListener('click', ()=>{

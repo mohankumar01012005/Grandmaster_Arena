@@ -3,7 +3,7 @@ var inst = document.getElementById('inst')
 
 // click effets
 home.addEventListener('click', ()=>{
-    window.location.href = './../HomePage/Home.html'
+    window.location.href = './../index.html'
 })
 
 inst.addEventListener('click', ()=>{
